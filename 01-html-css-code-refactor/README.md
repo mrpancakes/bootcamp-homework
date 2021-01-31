@@ -1,13 +1,12 @@
 # 01 HTML CSS Git: Code Refactor
 
 # Description
-- - 
-The purpose of this website is give a effectivtely promote the Horiseon brand and showcase what solutions they offer to potential customers. We put a teal-blue nav bar and floated the menu items to the right. Each link jumps you down to its specified section below the full-width hero image. To the right of our columned offerings are the beneits offered by Horiseon.
+
+The purpose of this website is to effectivtely promote the Horiseon brand and showcase what solutions they offer to potential customers. The top of the page features a teal-blue nav bar with floated menu items to the right. Each link jumps you down to its own specified section below the full-width hero image. To the right of our columned offerings are the beneits in choosing Horiseon.
 
 ## Improvements Made
-- - 
 
-I made some improvements to the original html and css files in order for this page to meet SEO and accessibility standards, and to flow in a more meaningful way:
+I made some improvements to the original html and css files in order for this page to meet SEO and accessibility standards, while also flowing in a more meaningful way:
 
 * Updated the Title of the site to be the brand's name.
 
