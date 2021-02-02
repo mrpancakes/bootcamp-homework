@@ -30,3 +30,10 @@ I made some improvements to the original html and css files in order for this pa
 
 * Update the footer div to use the footer element, and updated the names of the css classes accordingly.
 
+## Live Page & Mock Up
+
+Visit the [live page here](index.html).
+
+The following image shows the web page's appearance and functionality:
+
+![Horiseon page mock up](./images/01-horiseon-page-mockup.png)
