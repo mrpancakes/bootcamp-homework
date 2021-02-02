@@ -10,7 +10,15 @@ I made some improvements to the original html and css files in order for this pa
 
 * Updated the Title of the site to be the brand's name.
 
-* Updated the opening header div to use the header element, and updated the names of the css classes accordingly.
+* Replaced divs with semantic elements and updated the css accordingly.
+
+* Consolidated the css elements in the main section to be styled using less classes due to redudancy.
+
+* Consolidated the css elements in the aside section to be styled using less classes due to redudancy.
+
+* Assigned the main Gill Sans font-family the body element. 
+
+* Reordered the css file so that it flowed in a more logical way
 
 * Added alt tags to all images.
 
