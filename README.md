@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of this website is to effectivtely promote the Horiseon brand and showcase what solutions they offer to potential customers. The top of the page features a teal-blue nav bar with floated menu items to the right. Each link jumps you down to its own specified section below the full-width hero image. To the right of our columned offerings are the beneits in choosing Horiseon.
+The purpose of this website is to effectivtely promote the Horiseon brand and showcase what solutions they offer to potential customers. The top of the page features a teal-blue nav bar with floated menu items to the right. Each link jumps you down to its own specified section below the full-width hero image. To the right of our columned offerings are the benefits in choosing Horiseon.
 
 ## Improvements Made
 
@@ -18,7 +18,7 @@ I made some improvements to the original html and css files in order for this pa
 
 * Assigned the main Gill Sans font-family the body element. 
 
-* Reordered the css file so that it flowed in a more logical way
+* Reordered the css file so that it flowed in a more logical way.
 
 * Added alt tags to all images.
 
@@ -28,7 +28,9 @@ I made some improvements to the original html and css files in order for this pa
 
 * Added some spacing bewteen the content and benefits sections in the html to easily discern the different sections.
 
-* Update the footer div to use the footer element, and updated the names of the css classes accordingly.
+* Updated the footer div to use the footer element, and updated the names of the css classes accordingly.
+
+* Added meaningful comments to the CSS.
 
 ## Live Page & Mock Up
 
