@@ -32,9 +32,11 @@ I made some improvements to the original html and css files in order for this pa
 
 * Added meaningful comments to the CSS.
 
+* Changed copyright year in footer to 2021.
+
 ## Live Page & Mock Up
 
-Visit the [live page here](index.html).
+Visit the [live page here](https://mrpancakes.github.io/homework-01-refactor/).
 
 The following image shows the web page's appearance and functionality:
 
